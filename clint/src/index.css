@@ -14,7 +14,7 @@ body{
 .join_room input{
   height: 35px;
   width: 300px;
-  background-color: rgb(11, 251, 175);
+  background-color: rgb(2, 53, 100);
   color: rgb(0, 0, 0);
   border: 2px solid rgb(0, 0, 0);
 }
@@ -29,9 +29,9 @@ body{
   width: 310px;
   font-weight: bolder;
   font-size: 1.2rem;
-background-color: rgb(233, 8, 124);
+background-color: rgb(6, 158, 138);
 color: rgb(19, 2, 2);
-border: 1px solid yellow;
+border: 1px solid rgba(72, 7, 177, 0.63);
 
 }
 
@@ -47,7 +47,7 @@ border: 1px solid yellow;
   background-color: rgb(61, 61, 49);
   height: 500px;
   position: relative;
-  border: 1px solid yellow;
+  border: 1px solid rgba(27, 0, 179, 0.534);
 }
 
 .chat_body{
@@ -58,7 +58,7 @@ border: 1px solid yellow;
 .chat_body input{
   height: 40px;
   width: 350px;
-  border: 1px solid yellow;
+  border: 1px solid rgb(0, 183, 255);
 }
 
 .chat_body input::placeholder{
@@ -86,7 +86,7 @@ border: 1px solid yellow;
   justify-content: flex-start;
 }
 #y{
-  background-color: rgb(225, 249, 16);
+  background-color: rgb(16, 249, 198);
   padding: 10px;
   border-radius: 5%;
   color: black;
@@ -96,7 +96,7 @@ border: 1px solid yellow;
   justify-content: flex-end;
 }
 #b{
-  background-color: rgb(255, 0, 0);
+  background-color: rgba(154, 172, 0, 0.918);
   padding: 10px;
   border-radius: 5%;
 }
